@@ -2,7 +2,7 @@ This repository contains the source files for my end semester project for the co
 The coding and debugging was done in Visual Studio 2019 Community Version. 
 ## Concepts Involved
 We used the concept of file handling for managing student records and admin finances. File handling is also used
-for storing student login details. Other concepts used are Inheritance and Encapsulation. 
+for storing student login details. Other concepts used are Inheritance, Error Handling and Encapsulation. 
 ## Basic Functionality
 The code implements typical laundry store management system in relation to the student Hostels. In student hostels
 the laundry store can sometime become a messy business. Students sometime loose their clothes without any documented
